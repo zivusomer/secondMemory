@@ -1,0 +1,25 @@
+package.json
+  2fbf6939144baa4c 1-16
+src/index.js
+  2fbf6939144baa4c 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "2.0.0",
+  "base_commit_sha": "a5aa5dfd1fb3db5792b06339e5e40e1335723079",
+  "prompts": {
+    "2fbf6939144baa4c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2383c14b-81c0-411b-a3f8-97a446460845",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Omer Ziv <omerziv@prompt.security>",
+      "messages": [],
+      "total_additions": 17,
+      "total_deletions": 0,
+      "accepted_lines": 17,
+      "overriden_lines": 0
+    }
+  }
+}
