@@ -1,0 +1,16 @@
+{
+  "name": "second-memory",
+  "version": "0.1.0",
+  "description": "Personal episodic memory app: ingest notes, cluster them semantically, query them with an LLM",
+  "private": true,
+  "type": "module",
+  "main": "src/index.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "license": "UNLICENSED"
+}
