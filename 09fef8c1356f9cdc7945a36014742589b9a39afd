@@ -1,0 +1,41 @@
+src/query.ts
+  2fbf6939144baa4c 1-34
+README.md
+  2fbf6939144baa4c 1-4,6-52,55-59,68-71,73-75,77-83,85-86,90-100
+src/types.ts
+  2fbf6939144baa4c 1-40
+src/db.ts
+  2fbf6939144baa4c 1-48
+src/llm.ts
+  2fbf6939144baa4c 1-69
+src/ingest.ts
+  2fbf6939144baa4c 1-69
+tsconfig.json
+  2fbf6939144baa4c 1-18
+test/pipeline.test.ts
+  2fbf6939144baa4c 1-76
+src/index.ts
+  2fbf6939144baa4c 1-98
+src/similarity.ts
+  2fbf6939144baa4c 1-27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "2.0.0",
+  "base_commit_sha": "09fef8c1356f9cdc7945a36014742589b9a39afd",
+  "prompts": {
+    "2fbf6939144baa4c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2383c14b-81c0-411b-a3f8-97a446460845",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "zivusomer <38352493+zivusomer@users.noreply.github.com>",
+      "messages": [],
+      "total_additions": 955,
+      "total_deletions": 2,
+      "accepted_lines": 849,
+      "overriden_lines": 13
+    }
+  }
+}
